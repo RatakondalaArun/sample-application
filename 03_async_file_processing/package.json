@@ -1,0 +1,23 @@
+{
+  "name": "03_async_file_processing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "ts-node src/file_processing_service.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.15.1",
+  "devDependencies": {
+    "@types/node": "^24.3.1",
+    "ts-node": "^10.9.2"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "joi": "^18.0.1",
+    "path": "^0.12.7"
+  }
+}
