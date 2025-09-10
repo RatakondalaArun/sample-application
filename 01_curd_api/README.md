@@ -40,3 +40,14 @@ Build a REST API for a simple Notes application.
     - `400` - For validation
     - `500` - for any internal serve error
 
+
+## Setup instructions
+
+1) Install dependencies
+```sh
+pnpm i #used pnpm package manager
+```
+2) Execute script
+```sh
+pnpm run start
+```
