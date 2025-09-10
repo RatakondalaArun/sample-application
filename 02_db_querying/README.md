@@ -1,5 +1,6 @@
-Task 2: Database Querying
+## Task 2: Database Querying
 Duration: 30–45 minutes
+
 Schema
 ```sql
 CREATE TABLE employees (
